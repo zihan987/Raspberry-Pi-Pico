@@ -1,11 +1,5 @@
 # Raspberry-Pi-Pico教程
 
-小伙伴可以扫描下方二维码关注，通过公众号了解更多Pico教程的更新。
-
-![阿chai带你学AI.jpeg](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/%E9%98%BFchai%E5%B8%A6%E4%BD%A0%E5%AD%A6AI.jpeg?raw=true)
-
-
-
 Doc文件夹存放教程文档，Code存放代码。
 
 
@@ -41,3 +35,6 @@ Doc文件夹存放教程文档，Code存放代码。
 
 。。。。。。
 
+小伙伴可以扫描下方二维码关注，通过公众号了解更多Pico教程的更新。
+
+![阿chai带你学AI.jpeg](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/%E9%98%BFchai%E5%B8%A6%E4%BD%A0%E5%AD%A6AI.jpeg?raw=true)
