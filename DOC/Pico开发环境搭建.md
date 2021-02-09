@@ -1,4 +1,4 @@
-## Pico开发环境安装
+## Pico开发环境搭建
 
 Pico可以在电脑和树莓派上做开发，阿chai在这里主要介绍在电脑上的开发环境，分为C版本与MicroPython版。阿chai建议大家使用MicroPython版本。
 
