@@ -13,7 +13,7 @@ Pico可以在电脑和树莓派上做开发，阿chai在这里主要介绍在电
 3. 它将安装为称为RPI-RP2的大容量存储设备。
 4. 将MicroPython UF2文件拖放到RPI-RP2卷上。您的Pico将重新启动。您现在正在运行MicroPython。
 
-![pico](/Users/zty/Desktop/Pico/image/pico.gif)
+![pico](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/pico.gif)
 
 上图中的IDE是官方推荐使用Thonny，但是阿chai还是喜欢VSCode，那么下面介绍一下VSCode中搭建环境。
 
@@ -26,7 +26,7 @@ $ minicom -b 115200 -o -D /dev/cu.usbmodem0000000000001
 
 安装MicroPython的插件：
 
-![image-20210208000330608](/Users/zty/Library/Application Support/typora-user-images/image-20210208000330608.png)
+![image-20210208000330608](https://mmbiz.qpic.cn/mmbiz_jpg/gIb5Pv6jCfdBAkoqibdyrFBMPib6ndEckfSH97PxicO6bDsIDicCzxnQoRZXnH9JTY4zSYGruHzpeTefK0663VlFkg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 因为upload项目是需要使用串口的，因此我们进行串口配置：
 
