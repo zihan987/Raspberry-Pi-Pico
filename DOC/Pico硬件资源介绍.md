@@ -23,7 +23,7 @@ Pico的内核是ARM Crotex-M0的内核，也就是说他的CPU是ARM系列的单
 
 除了核心板，官网还提供了一个插件的面包板，如下图所示。
 
-<div style="text-align: center;">![面包板.jpg](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/%E9%9D%A2%E5%8C%85%E6%9D%BF.jpg?raw=true)<div>
+![面包板.jpg](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/%E9%9D%A2%E5%8C%85%E6%9D%BF.jpg?raw=true)
 
 支持自己的DIY，开源了外设板卡：
 ![外设板卡.jpg](https://github.com/zihan987/Raspberry-Pi-Pico/blob/main/images/%E5%A4%96%E8%AE%BE%E6%9D%BF%E5%8D%A1.jpg?raw=true)
