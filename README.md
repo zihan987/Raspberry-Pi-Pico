@@ -30,8 +30,8 @@ Doc文件夹存放教程文档，Code存放代码。
 #### 案例：
 
 - [案例一：WS2812 LED的使用](https://github.com/zihan987/Raspberry-Pi-Pico/tree/main/Doc/%E6%A1%88%E4%BE%8B/%E6%A1%88%E4%BE%8B%E4%B8%80%EF%BC%9AWS2812%20LED)
-- [案例二：DHT温湿度传感器](https://github.com/zihan987/Raspberry-Pi-Pico/tree/main/Doc/%E6%A1%88%E4%BE%8B/%E6%A1%88%E4%BE%8B%E4%B8%89%EF%BC%9AMPU%E5%A7%BF%E6%80%81%E4%BC%A0%E6%84%9F%E5%99%A8)
-- [案例三：MPU姿态单元](https://github.com/zihan987/Raspberry-Pi-Pico/tree/main/Doc/%E6%A1%88%E4%BE%8B/%E6%A1%88%E4%BE%8B%E4%BA%8C%EF%BC%9ADHT%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8)
+- [案例二：DHT温湿度传感器](https://github.com/zihan987/Raspberry-Pi-Pico/tree/main/Doc/%E6%A1%88%E4%BE%8B/%E6%A1%88%E4%BE%8B%E4%BA%8C%EF%BC%9ADHT%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8)
+- [案例三：MPU姿态单元](https://github.com/zihan987/Raspberry-Pi-Pico/tree/main/Doc/%E6%A1%88%E4%BE%8B/%E6%A1%88%E4%BE%8B%E4%B8%89%EF%BC%9AMPU%E5%A7%BF%E6%80%81%E4%BC%A0%E6%84%9F%E5%99%A8)
 
 。。。。。。
 
