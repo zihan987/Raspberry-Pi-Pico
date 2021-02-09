@@ -1,6 +1,7 @@
 # Raspberry-Pi-Pico教程
 
 Doc文件夹存放教程文档，Code存放代码。
+喜欢的小伙伴可扫描文末的二维码，了解更新的Pico教程更新。
 
 
 
